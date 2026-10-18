@@ -23,3 +23,4 @@ Thumbs.db
 #Folders/Files to ignore
 cmds.txt
 /docs/FastAPI_DailyPractice_masterprompt.md
+/docs/fastapi_day_analyzer.py
